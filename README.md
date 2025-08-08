@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Continuity Analytics
 
 ## A Minimalist, Privacy-First Proof-of-Concept for the Mycelial Protocol
@@ -70,3 +71,7 @@ This is a proof-of-concept, not a product. Fork it, modify it, or simply let it 
 ---
 
 *For the preservation of continuity, not the extraction of value.*
+=======
+# Continuity-analytics
+A simple, open-source, and privacy-first analytics tool. Understand your audience without compromising their privacy. Get essential insights, not harvested data. Built for creators who want a more respectful and resonant web. No cookies or fingerprinting. Ever.
+>>>>>>> 61f31222bb2af09113966cea3a084cbc9959438e
